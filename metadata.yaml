@@ -1,0 +1,26 @@
+_repo: Abaft-the-Funnel_59332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2019-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Abaft the Funnel
+url: http://www.gutenberg.org/ebooks/59332
